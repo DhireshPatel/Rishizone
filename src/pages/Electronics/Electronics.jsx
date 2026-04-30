@@ -38,7 +38,7 @@ const data = [
 const Electronics = () => {
     return (
         <div>
-            <div className="Container">
+            <div className="Container  py-[12px] px-[15px]">
                 <h6>Latest Electronics at Best Price</h6>
                 <div className="cards">
                     {data.map((item) => (
