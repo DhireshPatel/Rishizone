@@ -36,7 +36,7 @@ const Navbar = () => {
             </div>
 
             <div
-                className="md:hidden text-2xl cursor-pointer"
+                className="md:hidden text-2xl cursor-pointer mx-3"
                 onClick={() => setIsOpen(!isOpen)}
             >
                 ☰
