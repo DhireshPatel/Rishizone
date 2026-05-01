@@ -29,7 +29,7 @@ const Navbar = () => {
     };
 
     return (
-        <nav className="flex justify-between items-center px-6 py-4 bg-[#ddd9d979] shadow-md relative">
+        <nav className="flex justify-between px-1 py-4 bg-[#ddd9d979] shadow-md relative">
 
             <div className="text-xl font-bold">
                 <img src={logo} alt="logo" className="h-10 w-auto" />
